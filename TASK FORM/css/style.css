@@ -1,0 +1,79 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-image: url(../images/harli-marten-n7a2OJDSZns-unsplash.jpg);max-width: 100%; height: auto;
+    
+}
+
+input{
+    border: none;
+
+}
+
+.back-images{
+   
+    display: flex;
+    align-items:center;
+    margin-top: 60px ;
+   
+}
+.images01,.form{
+ width: 50%;
+}
+
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 27px;
+    margin:20px;
+}
+
+
+
+.form{
+    width: 25%;
+    border: 2px solid rgb(0, 255, 89);
+    margin-left: 140px;
+   
+}
+
+
+
+.images01{
+    margin-left: 35px;
+    text-align: center;
+}
+
+.app,.del{
+    text-align: center;
+   background-color: bisque;
+
+}
+.app{
+    padding: 10px;
+    border-bottom:2px solid black;
+    color: brown;
+    background-color: aqua;
+}
+
+
+.num{
+    border-radius: 5px;
+    margin:10px 0px 0px 0px;
+    padding: 4px;
+}
+
+.btn{
+    margin-bottom: 10px;
+    width: 80px;
+    height: 30px;
+    border-radius: 37px;
+    background-color: blue;
+    color: white;
+}
+
+.top{
+    color: blue;
+}
